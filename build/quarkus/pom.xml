@@ -16,7 +16,7 @@
   <name>Monster Combat - Quarkus Build</name>
 
   <properties>
-    <quarkus.version>1.4.1.Final</quarkus.version>
+    <quarkus.version>1.5.0.Final</quarkus.version>
   </properties>
 
   <dependencyManagement>
